@@ -1,4 +1,8 @@
 # TelegramPandaBot
+A practice of [Udemy course](https://www.udemy.com/course/build-telegram-bots-with-javascript-the-complete-guide)    
+All rights reserved to [Mark Tan](https://www.udemy.com/user/mark-tan-rj/)  
+
+If you interest in this course, please entroll.
 <img src="pics/1.jpg" width = "200" height = "400" /><img src="pics/2.jpg" width = "200" height = "400" />
 <img src="pics/3.jpg" width = "200" height = "400" /><img src="pics/4.jpg" width = "200" height = "400" />
 <img src="pics/5.jpg" width = "200" height = "400" /><img src="pics/6.jpg" width = "200" height = "400" />
