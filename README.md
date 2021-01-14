@@ -12,3 +12,11 @@ If you are interested in this course, please enroll.
 <img src="pics/13.jpg" width = "200" height = "400" /><img src="pics/14.jpg" width = "200" height = "400" />
 <img src="pics/15.jpg" width = "200" height = "400" /><img src="pics/16.jpg" width = "200" height = "400" />
 <img src="pics/17.jpg" width = "200" height = "400" /><img src="pics/18.jpg" width = "200" height = "400" />
+
+# Reqirements
+https://www.npmjs.com/package/telegraf  
+https://www.npmjs.com/package/axios  
+
+
+# Command
+ node bot.js    
