@@ -15,6 +15,7 @@ If you are interested in this course, please enroll.
 
 # Reqirements
 https://www.npmjs.com/package/dotenv  
+注意：如果有在用 Git，這個 .env 必須列在 .gitignore 裡面  
 https://www.npmjs.com/package/telegraf  
 https://www.npmjs.com/package/axios  
 
