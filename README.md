@@ -14,6 +14,7 @@ If you are interested in this course, please enroll.
 <img src="pics/17.jpg" width = "200" height = "400" /><img src="pics/18.jpg" width = "200" height = "400" />
 
 # Reqirements
+https://www.npmjs.com/package/dotenv
 https://www.npmjs.com/package/telegraf  
 https://www.npmjs.com/package/axios  
 
